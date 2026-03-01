@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"supermercado.cliente"},{"l":"supermercado.cliente.modelo"},{"l":"supermercado.cliente.servicio"}];updateSearchResults();

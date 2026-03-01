@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"supermercado.cliente.modelo","l":"Categoria"},{"p":"supermercado.cliente.servicio","l":"CategoriaServicio"},{"p":"supermercado.cliente","l":"ClienteApp"},{"p":"supermercado.cliente.modelo","l":"Producto"},{"p":"supermercado.cliente.servicio","l":"ProductoServicio"}];updateSearchResults();

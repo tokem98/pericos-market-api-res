@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"supermercado.servidor"},{"l":"supermercado.servidor.controlador"},{"l":"supermercado.servidor.modelo"},{"l":"supermercado.servidor.repositorio"},{"l":"supermercado.servidor.servicio"}];updateSearchResults();

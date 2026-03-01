@@ -1,0 +1,39 @@
+# Archivos compilados (pero mantenemos los JAR)
+**/target/classes/
+**/target/test-classes/
+**/target/generated-sources/
+**/target/generated-test-sources/
+**/target/maven-status/
+**/target/surefire-reports/
+**/target/maven-archiver/
+**/target/site/
+**/target/reports/
+**/target/javadoc-bundle-options/
+**/target/*.txt
+**/target/*.original
+*.class
+
+# Archivos de IDE
+.idea/
+*.iml
+.project
+.classpath
+.settings/
+.vscode/
+*.swp
+*.swo
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Variables de entorno
+.env
+
+# Archivos que no subir
+TUTORIAL.md
+codigo_completo.txt
+README.md
