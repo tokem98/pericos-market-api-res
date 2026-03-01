@@ -2,10 +2,7 @@ Proyecto de 2º DAM. Son dos aplicaciones en Java que se comunican entre sí: un
 
 La idea es que el servidor gestiona el inventario de un supermercado (categorías y productos) y el cliente te deja hacer el CRUD desde la consola.
 
-Qué hay en el repositorio:
-├── servidor/   → Spring Boot + MySQL
-├── cliente/    → Java puro, sin Spring
-└── docs/       → Javadoc generado con mvn javadoc:javadoc
+
 
 Para ejecutarlo:
 Necesitas tener Java 17 y MySQL. Primero crea la base de datos:
