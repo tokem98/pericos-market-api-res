@@ -33,7 +33,3 @@ Thumbs.db
 # Variables de entorno
 .env
 
-# Archivos que no subir
-TUTORIAL.md
-codigo_completo.txt
-README.md
